@@ -1,8 +1,6 @@
 # hw3b-ianhooper
 Password Generator
 
-# hw3-ianhooper
-Homework 3
 
 JavaScript Password Generator
 
@@ -21,9 +19,8 @@ For example, the user was asked "if they wanted to have capital letters as part 
 
 I chose to use multiple functions to help to generate the password.  With there being several arrays used in this project, and many possible characters used, I had to be careful not to mixup the names of the different functions, arrays, etc.
 
-In the end, the application ran well, but I was unable to get the application to generate a password.  It ran through the entire interaction with the user, but failed to generate the password.  I will continue to check the code, and work on a solution. Stay tuned.
-
-One last note, feel free to view the application on any device, as it is responsive.
+**new**
+After reworking and simplifying my code, I was able to get my code working and have the application print out a password.  One key to this was breaking down the project step by step, instead of jumping in and starting to create functions everywhere.  By doing this, I was able to reduce my original code by half, and get better results.  This will definitely be something that I try to replicate for future projects.
 
 
 
